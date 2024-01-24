@@ -1,6 +1,6 @@
 Overview
 
-Welcome to the Password Manager! This tool is designed to help you securely store and manage your passwords in one central location. With strong encryption and user-friendly features, this password manager aims to enhance your online security while providing convenience.
+Welcome to PassX- the Password Manager! This tool is designed to help you securely store and manage your passwords in one central location. With strong encryption and user-friendly features, this password manager aims to enhance your online security while providing convenience.
 
 Features
 
